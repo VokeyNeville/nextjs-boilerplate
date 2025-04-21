@@ -1,0 +1,9 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2Request Id: cae45022-7665-4d76-a5a9-ee439ed61300
+Correlation Id: 99becbba-c213-46b7-8e5a-9eae473b10d4
+Timestamp: 2025-04-21T23:00:15Z
+Message: AADSTS90100: login parameter is empty or not valid.
